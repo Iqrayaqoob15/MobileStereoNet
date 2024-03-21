@@ -1,0 +1,8 @@
+opencv-python
+googledrivedownloader
+onnx
+onnxruntime
+onnxruntime-gpu
+requests
+imread-from-url
+protobuf==3.20.*
